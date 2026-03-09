@@ -24,9 +24,13 @@ RAG Architecture: Developed a framework for Retrieval-Augmented Generation to pr
 Automated Evaluation: Referenced the Ragas framework to ensure the quality and accuracy of the generated content.
 
 Tech Stack
+
 Language: Python 
+
 AI/ML: LangChain, Hugging Face Transformers, Scikit-learn, PyTorch 
+
 Data Processing: Pandas, NumPy 
+
 Visualization: Seaborn, Matplotlib 
 
 How it Works
